@@ -1,1 +1,2 @@
-# AutoMechMind_img
+# AutoMechMind
+![Screenshot](./images/quote.png)
