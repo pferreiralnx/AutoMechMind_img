@@ -1,2 +1,2 @@
 # AutoMechMind
-![Screenshot](./images/quote.png)
+![Screenshot](./quote.png)
