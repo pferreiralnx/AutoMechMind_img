@@ -117,8 +117,6 @@ O **AutoMechMind** foi desenvolvido para demonstrar:
 
 Projeto desenvolvido no contexto de evolução técnica em **engenharia de software e aplicações desktop**.
 
-> 📌 Este repositório foi estruturado para facilitar a análise técnica por recrutadores.
-
 ---
 
 ⭐ Se este projeto foi útil ou interessante, considera deixar uma estrela.  
