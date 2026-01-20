@@ -14,7 +14,7 @@ O foco do projeto está em:
 - Manter uma arquitetura limpa e escalável
 - Demonstrar boas práticas de engenharia de software
 
-Este repositório foi preparado com especial atenção para **avaliação técnica por recrutadores**.
+Este repositório foi preparado com especial atenção à **avaliação técnica por recrutadores**.
 
 ---
 
@@ -40,10 +40,10 @@ Este repositório foi preparado com especial atenção para **avaliação técni
 ## 🧠 Funcionalidades Principais
 
 - 📋 **Gestão de Clientes**  
-  Criação, edição e consulta de clientes de forma simples e rápida.
+  Criação, edição e consulta de clientes de forma simples e eficiente.
 
 - 💰 **Orçamentos**  
-  Criação de orçamentos detalhados, com possibilidade de evolução para ordens de reparação.
+  Criação de orçamentos detalhados, com possibilidade de conversão em ordens de reparação.
 
 - 🔧 **Ordens de Reparação**  
   Acompanhamento do estado dos serviços realizados.
@@ -52,7 +52,7 @@ Este repositório foi preparado com especial atenção para **avaliação técni
   Configuração do sistema num único local.
 
 - 🧱 **Arquitetura Modular**  
-  Código organizado por camadas, facilitando manutenção e evolução futura.
+  Código organizado por camadas, facilitando a manutenção e a evolução futura.
 
 ---
 
@@ -66,19 +66,19 @@ O projeto segue os princípios da **Clean Architecture**, com separação clara 
 
 - **Use Cases**  
   Implementam a lógica da aplicação e os casos de uso do sistema.  
-  Orquestram o fluxo entre entidades, sem dependência da UI ou infraestrutura.
+  Orquestram o fluxo entre entidades, sem dependência da interface gráfica ou infraestrutura.
 
 - **Controllers**  
   Atuam como adaptadores entre a interface e os casos de uso.  
-  Recebem inputs da UI, validam e encaminham para os *use cases*.
+  Recebem inputs da UI, validam-nos e encaminham-nos para os *use cases*.
 
 - **Frameworks**  
-  Camada mais externa, responsável por detalhes técnicos como UI, bibliotecas e integrações.  
+  Camada mais externa, responsável por detalhes técnicos como a interface gráfica, bibliotecas e integrações.  
   Depende das camadas internas, nunca o contrário.
 
 Esta abordagem permite:
 - Melhor legibilidade do código
-- Facilidade de testes
+- Maior facilidade de testes
 - Evolução incremental do sistema
 
 ---
@@ -117,8 +117,9 @@ O **AutoMechMind** foi desenvolvido para demonstrar:
 
 Projeto desenvolvido no contexto de evolução técnica em **engenharia de software e aplicações desktop**.
 
-> 📌 Este repositório foi estruturado para facilitar análise técnica por recrutadores.
+> 📌 Este repositório foi estruturado para facilitar a análise técnica por recrutadores.
 
 ---
 
-⭐ Se este projeto foi útil ou interessante, considera deixar uma estrela! Se tiveres interesse em adquirir contacta: pedrodaniel17.0750@gmail.com
+⭐ Se este projeto foi útil ou interessante, considera deixar uma estrela.  
+📩 Para aquisição ou contacto: **pedrodaniel17.0750@gmail.com**
